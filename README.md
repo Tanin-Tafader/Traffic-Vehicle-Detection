@@ -1,11 +1,11 @@
-Real-Time Traffic Video Analytics System
-Overview
+**Real-Time Traffic Video Analytics System
+**Overview
 
 This project is a real-time traffic video analytics system designed to detect and count vehicles from traffic-intersection footage using deep learning and computer vision techniques. The system processes video streams frame-by-frame, performs object detection, and aggregates results to analyze traffic activity and model performance.
 
 The project focuses on evaluating speed–accuracy trade-offs for real-time deployment scenarios, such as intelligent transportation systems and traffic monitoring.
 
-Features
+****Features
 
 Real-time vehicle detection and counting from video input
 
